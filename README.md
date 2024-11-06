@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chhaya Patel
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning Github Copilot
-- 💞️ I’m looking to collaborate on software development and programming
+- 💞️ I’m looking to collaborate with experts who have innovative ideas for software and application
 - 📫 How to reach me at [chhayapatel7022@gmail.com]
 
 
